@@ -8,20 +8,12 @@ Tensorflow r1.5
 
 Numpy
 
-
 instructions: 
 
-#For data modelling:
+python3 data.py #For data modelling:
 
-python3 data.py 
+python3 lstm-stacked.py -t  #train
 
+python3 lstm-stacked.py -g  #generate
 
-#train
-
-python3 lstm-stacked.py -t 
-
-
-#generate
-
-python3 lstm-stacked.py -g 
 

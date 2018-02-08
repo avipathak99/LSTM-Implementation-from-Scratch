@@ -1,12 +1,12 @@
 Text Generation using single layer LSTM and stacked LSTM implemented in python using Tensorflow.
 
-Requirements:
+Dependencies:
 
-Python 2.7 or Python 3.3+
+  1)Python 2.7 or Python 3.3+
 
-Tensorflow r1.5
+  2)Tensorflow r1.5
 
-Numpy
+  3)Numpy
 
 instructions: 
 

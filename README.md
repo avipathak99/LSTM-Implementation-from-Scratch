@@ -10,10 +10,10 @@ Dependencies:
 
 Instructions: 
 
-python3 data.py #For data modelling:
+     python data.py #For data modelling:
 
-python3 lstm-stacked.py -t  #train
+     python lstm-stacked.py -t  #train
 
-python3 lstm-stacked.py -g  #generate
+     python lstm-stacked.py -g  #generate
 
 
